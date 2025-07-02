@@ -14,12 +14,6 @@ Simulations were carried out using DSCH2 and Microwind tools.
 
 ## 📊 Performance Results
 
-| Design | Transistors | Power | Delay | PDP |
-|--------|-------------|--------|--------|-----|
-| 10T FA | 10 | 6.719 µW | 26 ps | 17.464 |
-| 14T FA | 14 | 11.054 µW | 20 ps | 21.08 |
-| 20T FA | 20 | 0.255 mW | 10 ps | 1.02 |
-| 1-bit FS | 14 | 2.935 µW | 7 ps | 20.545 |
 
 ![image](https://github.com/user-attachments/assets/66c0cd21-3105-4351-9904-7bf03b4cfc3c)
 
